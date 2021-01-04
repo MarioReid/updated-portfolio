@@ -11,7 +11,7 @@ Open webpage using a browser of your choice.
 
 ## Usage
 
-pic2.jpg Contact Picture
+![My image](./Assets/Images/pic2.jpg) Contact Picture
 
 https://www.placecage.com/350/350
 
