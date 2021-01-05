@@ -1,9 +1,9 @@
 # Updated Portfolio
 
 ## Description
-This project was one to ensures that web applications render well on a variety of devices and window or screen sizes. It was truly a learning opportunity to get familiar with certain aspects of coding and css elements.
+[Updated Portfolio](https://github.com/MarioReid/updated-portfolio) was created to give users information on projects completed, my resume, and how they can contact me. Using CSS style and elements, I was able to transform the webpages to be user friendly.
 
- https://github.com/MarioReid/responsive-portfolio  Click here to visit deployed project. 
+View the deployed application here: https://marioreid.github.io/updated-portfolio/
 
 ## Table of Contents
 * [Installation](#installation)
