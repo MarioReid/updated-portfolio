@@ -5,6 +5,11 @@ This project was one to ensures that web applications render well on a variety o
 
  https://github.com/MarioReid/responsive-portfolio  Click here to visit deployed project. 
 
+## Table of Contents
+* [Installation](#installation)
+* [Usage](#usage)
+* [Credits](#credits)
+* [License](#license)
 ## Installation
 
 Open webpage using a browser of your choice.
@@ -13,21 +18,17 @@ Open webpage using a browser of your choice.
 
 ![My image](./Assets/Images/pic2.jpg) Contact Picture
 
-https://www.placecage.com/350/350
 
 ## Credits
 
-Derrick Hardison (classmate) for the search and repair of my divs as well as correcting my layout.
+* [w3schools](https://www.w3schools.com/html/html5_semantic_elements.asp)
 
-https://www.w3schools.com/html/html5_semantic_elements.asp Click here to Visit W3Schools for HTML Semantics!
-
-https://getbootstrap.com/ Click here to visit Get Bootstrap.com
-
+* [Bootstrap](https://getbootstrap.com)
 
 ## License
 MIT License
 
-Copyright (c) 2020 Jeana Rose Mathis, Mario Reid, Miranda McDonald
+Copyright (c) 2020 Mario Reid
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
