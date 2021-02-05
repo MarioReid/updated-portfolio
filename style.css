@@ -46,7 +46,7 @@ body {
     border: 0;
 }
 
- img {
+ .img-me {
     float: left; 
      width: 170px;
     height: 230px;
