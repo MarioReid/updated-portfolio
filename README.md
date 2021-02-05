@@ -16,7 +16,7 @@ Open webpage using a browser of your choice.
 
 ## Usage
 
-![My image](./Assets/Images/pic2.jpg) Contact Picture
+![My image](./Assets/Images/pic2.JPG) Contact Picture
 
 
 ## Credits
