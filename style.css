@@ -1,14 +1,14 @@
 h1 {
-    color: rgb(68, 68, 211);
+    color: rgba(42, 110, 236, 0.698);
     font-family: 'Times New Roman', Times, serif;  
 }
 
 .myname {
-    background-color: rgb(68, 68, 211);
+    background-color: rgba(42, 110, 236, 0.698);
 }
 
 nav {
-    background-color:  rgb(68, 68, 211);
+    background-color:  rgba(42, 110, 236, 0.698);
 }
 
  .navbar-brand {
@@ -27,10 +27,9 @@ body {
 }
 
 .footer {
-    position: fixed;
     bottom: 0px;
     width: 100%;
-    background-color: rgb(68, 68, 211) !important;
+    background-color: rgba(42, 110, 236, 0.698) !important;
     color: white;
 }
 
@@ -55,7 +54,7 @@ body {
 
 .btn {
     color:white;
-    background: rgb(68, 68, 211);
+    background: rgba(42, 110, 236, 0.698);
 }
 
 .project {
